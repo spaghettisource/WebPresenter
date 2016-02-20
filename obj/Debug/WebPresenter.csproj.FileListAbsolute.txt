@@ -1,0 +1,9 @@
+c:\users\glowingtree\documents\visual studio 2013\Projects\WebPresenter\WebPresenter\bin\Debug\WebPresenter.exe.config
+c:\users\glowingtree\documents\visual studio 2013\Projects\WebPresenter\WebPresenter\bin\Debug\WebPresenter.exe
+c:\users\glowingtree\documents\visual studio 2013\Projects\WebPresenter\WebPresenter\bin\Debug\WebPresenter.pdb
+c:\users\glowingtree\documents\visual studio 2013\Projects\WebPresenter\WebPresenter\obj\Debug\WebPresenter.csprojResolveAssemblyReference.cache
+c:\users\glowingtree\documents\visual studio 2013\Projects\WebPresenter\WebPresenter\obj\Debug\WebPresenter.Form1.resources
+c:\users\glowingtree\documents\visual studio 2013\Projects\WebPresenter\WebPresenter\obj\Debug\WebPresenter.Properties.Resources.resources
+c:\users\glowingtree\documents\visual studio 2013\Projects\WebPresenter\WebPresenter\obj\Debug\WebPresenter.csproj.GenerateResource.Cache
+c:\users\glowingtree\documents\visual studio 2013\Projects\WebPresenter\WebPresenter\obj\Debug\WebPresenter.exe
+c:\users\glowingtree\documents\visual studio 2013\Projects\WebPresenter\WebPresenter\obj\Debug\WebPresenter.pdb
